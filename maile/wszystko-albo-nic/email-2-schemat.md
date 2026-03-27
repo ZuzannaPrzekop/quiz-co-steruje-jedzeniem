@@ -1,32 +1,43 @@
 # Email 2 — Wszystko albo nic: mechanizm + podcast
 
-**Temat:** Skąd się bierze myślenie „all or nothing" (i dlaczego to nie Twoja wina)
-**Preheader:** Mechanizm + odcinek podcastu
+**Temat:** Skąd się bierze myślenie „all or nothing" — i dlaczego to nie Twoja wina
+**Preheader:** Diety nauczyły Cię tego myślenia. Można się go oduczyć.
 **Kiedy:** 2 dni po email 1
 **Materiał:** podcast https://youtu.be/C9P3vkojp6g?si=k5Zzf19C0Sh7plvH
 
 ---
 
-Cześć,
+Szansa, że schemat "wszystko albo nic" wziął się z Twojego charakteru — jest bardzo niska.
+Szansa, że wziął się z lat diet — bardzo wysoka.
 
-Chcę Ci powiedzieć coś, co może być trudne do przyjęcia, ale jest ważne:
+Cześć! Tu Zuzia.
 
-Myślenie „wszystko albo nic" najczęściej jest efektem ubocznym diet. Szczególnie tych restrykcyjnych.
+**Jak diety tworzą ten schemat**
 
-Kiedy przez długi czas żyjesz w podziale na „dozwolone" i „zakazane" — mózg uczy się tego binarnego myślenia. Coś jest dobre albo złe. Dzień jest dobry albo zepsuty. Jesteś „na diecie" albo „po diecie".
+Kiedy przez długi czas żyjesz w systemie zakazów i dozwoleń, Twój mózg uczy się pewnej logiki: jest właściwy sposób i są błędy. Albo trzymasz się planu, albo go łamiesz. Nie ma środka.
 
-Po wielu takich cyklach pojawia się wzorzec: każde potknięcie = klęska = reset. Bo tak „działają diety".
+Problem w tym, że to jest logika diety — nie logika życia.
 
-Ale Ty nie jesteś dietą. I nie powinnaś działać w tym trybie.
+Życie ma gorsze dni, wyjazdy, zmęczenie, sytuacje społeczne, momenty, w których plan przestaje pasować do rzeczywistości. I jeśli nauczyłaś się myśleć w kategoriach "trzymam się albo zawalam" — każde odejście od planu staje się klęską, która wymaga resetu.
 
-Ten schemat nie świadczy o braku determinacji. Świadczy o tym, że przez lata system, któremu ufałaś, dawał Ci złe narzędzia.
+A reset wymaga nowego "od poniedziałku". I tak w kółko.
 
-Nagrałam o tym odcinek podcastu — o tym, jak wyjść z myślenia czarno-białego i co tak naprawdę pomaga utrzymać zmiany:
+**Wygrał system, nie Ty**
+
+To ważne: ten schemat nie świadczy o braku silnej woli ani determinacji. Świadczy o tym, że przez lata narzędzia, którym ufałaś, dawały Ci fałszywy obraz — że zmiana jest albo pełna, albo żadna.
+
+Prawda jest taka, że trwała zmiana rzadko wygląda jak perfekcja. Najczęściej wygląda jak: wróciłam po potknięciu. Szybko. Bez dramatu.
+
+Ta umiejętność — powrotu — jest ważniejsza niż jakikolwiek plan.
+
+Nagrałam odcinek podcastu o tym właśnie — o myśleniu czarno-białym, skąd się bierze i co naprawdę pomaga:
 
 🎙️ [Posłuchaj odcinka Sprawy Mniejszej Wagi](https://youtu.be/C9P3vkojp6g?si=k5Zzf19C0Sh7plvH)
 
 ---
 
-W kolejnym mailu wyślę Ci coś bardzo konkretnego — protokół powrotu po potknięciu. Bez zaczynania od zera.
+W kolejnym mailu wyślę Ci coś konkretnego — protokół powrotu po potknięciu. Bez zaczynania od zera.
 
-Zuzanna
+Na dziś to wszystko. Dzięki, że jesteś. 💛
+
+Zuzia

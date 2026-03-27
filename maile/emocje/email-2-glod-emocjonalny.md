@@ -1,42 +1,50 @@
 # Email 2 — Emocje: mechanizm + podcast + karta
 
-**Temat:** Jak odróżnić głód od czegoś innego
-**Preheader:** Praktyczne pytania + odcinek podcastu + karta do pobrania
+**Temat:** Głód czy emocja? Jest jeden sposób, żeby to sprawdzić.
+**Preheader:** Nie musisz zgadywać. Wystarczą cztery pytania.
 **Kiedy:** 2 dni po email 1
 **Materiał 1:** podcast https://youtu.be/ygE66jx680Y?si=1BmIiAZF-ZZKSRuU
-**Materiał 2:** Karta obserwacji głodu → plik: materialy/karta-obserwacji-godu.md
-**⚠️ DO UZUPEŁNIENIA:** link do karty po jej przygotowaniu (PDF/Canva/inne)
+**Materiał 2:** Karta obserwacji głodu
+**⚠️ DO UZUPEŁNIENIA:** [LINK DO KARTY] po przygotowaniu PDF
 
 ---
 
-Cześć,
+Jest jedna różnica między głodem fizycznym a emocjonalnym, którą można wyczuć.
+Głód fizyczny czeka. Głód emocjonalny żąda.
 
-Jest jedno pytanie, które może zmienić wiele:
+Cześć! Tu Zuzia.
 
-**„Czy to, co czuję, to głód — czy coś innego?"**
+**Jak to działa w praktyce**
 
-Brzmi prosto. W praktyce bywa bardzo trudne.
+Głód fizyczny narasta stopniowo. Pojawia się gdzieś w brzuchu, można go odłożyć na chwilę, da się negocjować. Kiedy go zaspokoisz — mija. Czujesz sytość.
 
-Głód fizyczny pojawia się stopniowo. Zaczyna się gdzieś w brzuchu, narasta, można go „odłożyć" na chwilę. Kiedy go zaspokoisz — mija.
+Głód emocjonalny jest inny. Pojawia się nagle. Jest bardzo konkretny — "chcę właśnie to, teraz". Trudno go odłożyć. I co ważne: nie mija po jedzeniu. Czasem wraca silniejszy.
 
-Głód emocjonalny pojawia się nagle. Jest konkretny („chcę teraz tego, a nie tamtego"). Nie mija, nawet kiedy zjesz. Czasem nasila się po jedzeniu — bo to, czego naprawdę potrzebowałaś, nadal czeka.
+To dlatego po emocjonalnym jedzeniu często pojawia się poczucie, że "przesadziłam" — bo ciało jest pełne, ale psychika nadal czegoś szuka.
 
-Pomocne pytania, które możesz zadać sobie przed jedzeniem:
-- Kiedy ostatnio jadłam? (Czy to może być fizyczny głód?)
-- Co czuję teraz, poza głodem?
-- Co robiłam przed chwilą? Czy coś mnie zmęczyło, zdenerwowało, znudziło?
-- Czego naprawdę teraz potrzebuję?
+**Cztery pytania, które pomagają**
 
-Nagrałam o tym odcinek podcastu — jeśli chcesz posłuchać więcej o emocjonalnym jedzeniu i tym, jak pracować z tym mechanizmem:
+Nie musisz wiedzieć z góry, co czujesz. Wystarczy zatrzymać się i zapytać:
+
+1. Kiedy ostatnio jadłam? *(Czy to może być fizyczny głód?)*
+2. Gdzie w ciele czuję coś, co interpretuję jako głód?
+3. Co czułam przez ostatnią godzinę? *(Napięcie? Zmęczenie? Nudę? Coś trudnego?)*
+4. Czego tak naprawdę teraz potrzebuję?
+
+To nie jest test, który trzeba zdać. To nawyk, który buduje się powoli. Na początku odpowiedź może być "nie wiem" — i to też jest informacja.
+
+Nagrałam odcinek podcastu o emocjonalnym jedzeniu — skąd się bierze, jak go rozpoznawać i co pomaga:
 
 🎙️ [Posłuchaj odcinka Sprawy Mniejszej Wagi](https://youtu.be/ygE66jx680Y?si=1BmIiAZF-ZZKSRuU)
 
 ---
 
-Przygotowałam też kartę obserwacji głodu — 4 pytania do sprawdzenia przed jedzeniem. Możesz ją wydrukować i mieć przy sobie. Nie po to, żeby nie jeść — po to, żeby wiedzieć, co naprawdę potrzebujesz.
+Przygotowałam też kartę obserwacji głodu — cztery pytania do sprawdzenia przed jedzeniem, wydrukowane na kartce, którą możesz mieć przy sobie. Nie po to, żeby nie jeść. Po to, żeby wiedzieć, co tak naprawdę się dzieje.
 
-📋 [Pobierz kartę obserwacji głodu →] [LINK DO KARTY]
+📋 [Pobierz kartę →] [LINK DO KARTY]
 
 ---
 
-Zuzanna
+Na dziś to wszystko. Dzięki, że jesteś. 💛
+
+Zuzia

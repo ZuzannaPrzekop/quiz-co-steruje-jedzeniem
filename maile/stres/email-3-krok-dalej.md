@@ -1,34 +1,43 @@
 # Email 3 — Stres: konkret i CTA
 
-**Temat:** Co robić, gdy stres już jest?
-**Preheader:** Jedno zdanie, które możesz zabrać ze sobą
+**Temat:** Jedno zdanie, które możesz zabrać ze sobą
+**Preheader:** Walka z jedzeniem nie działa. Jest coś, co działa lepiej.
 **Kiedy:** 4–5 dni po email 1
 
 ---
 
-Cześć,
+Walka z impulsem zużywa dokładnie te same zasoby, które już zużył stres.
+Dlatego zazwyczaj przegrywa.
 
-Przez ostatnie dni pisałam Ci o mechanizmie — skąd się bierze, dlaczego tak działa.
+Cześć! Tu Zuzia.
 
-Dziś chcę zostawić Ci jedno zdanie, które możesz zabrać ze sobą:
+Przez ostatnie dni pisałam Ci o tym, skąd się bierze ten mechanizm. Dziś chcę zostawić Ci coś konkretnego — jedno zdanie, które możesz mieć z tyłu głowy.
 
 **„Nie muszę teraz nie jeść. Muszę teraz się zatrzymać."**
 
-Różnica jest ogromna.
+To brzmi jak mała różnica. W praktyce zmienia wszystko.
 
-Walka z jedzeniem („nie zjem, nie zjem, nie zjem") nakłada dodatkowe napięcie na i tak przeciążony układ nerwowy. I zazwyczaj przegrywa.
+**Dlaczego walka nie działa**
 
-Zatrzymanie to coś innego. To 60 sekund, zanim podejmiesz decyzję. Jedna świadoma przerwa — nie żeby nie zjeść, ale żeby wybrać, czy chcesz teraz jeść.
+„Nie zjem, nie zjem, nie zjem" — to dodatkowe napięcie na i tak przeciążony układ. Zakaz uruchamia opór. Im bardziej próbujesz coś stłumić, tym silniej wraca.
 
-Czasem odpowiedź będzie „tak". I to jest OK.
-Czasem okaże się, że potrzebujesz czegoś innego — wody, ruchu, rozmowy, ciszy.
+Zatrzymanie to coś zupełnie innego. To 60 sekund — nie po to, żeby nie zjeść, ale żeby zobaczyć, co tak naprawdę się dzieje. Czy to głód? Czy napięcie? Czego teraz naprawdę potrzebujesz?
 
-Tego nie da się wdrożyć przez aplikację ani rozpiskę. To jest praca z mechanizmem, którą robi się razem — i którą warto zacząć.
+Czasem odpowiedź będzie: jedzenia. I to jest w porządku.
+Czasem okaże się, że potrzebujesz czegoś innego — wody, ruchu, świeżego powietrza, rozmowy, ciszy.
 
-Jeśli chcesz to przepracować — zapraszam na pierwszą konsultację. 60 minut, 129 zł. Pracujemy dokładnie z tym, co u Ciebie rządzi jedzeniem.
+**Tego nie da się wdrożyć przez plan**
+
+Widzę to w pracy z klientkami — sama świadomość mechanizmu rzadko wystarcza. Bo w momencie napięcia i tak trudno sięgnąć po to, czego się "teorię zna". Potrzeba czegoś więcej: czasu, powtarzalności i kogoś, kto pomaga zobaczyć własne schematy z zewnątrz.
+
+Jeśli chcesz to przepracować razem — zapraszam na pierwszą konsultację. Pracujemy konkretnie z tym, co wyszło w Twoim wyniku.
+
+60 minut, 129 zł.
 
 → [Umów się na konsultację] [LINK DO KONSULTACJI]
 
-Zuzanna
+Na dziś to wszystko. Dzięki, że jesteś. 💛
 
-P.S. Jeśli te maile były dla Ciebie pomocne — cieszę się. Jeśli chcesz po prostu poczytać więcej, zapraszam na zuzannaprzekop.pl.
+Zuzia
+
+P.S. Jeśli te maile były dla Ciebie pomocne — zapraszam też na zuzannaprzekop.pl. Znajdziesz tam więcej.

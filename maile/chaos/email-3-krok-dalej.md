@@ -1,31 +1,44 @@
 # Email 3 — Chaos: konkret i CTA
 
-**Temat:** Jeden punkt zakotwiczenia, który zmienia całą resztę
-**Preheader:** Konkret na nieregularny dzień + zaproszenie
+**Temat:** Nie musisz jeść o stałych porach. Potrzebujesz jednego punktu.
+**Preheader:** Jeden posiłek. Tylko jeden. I to już coś zmienia.
 **Kiedy:** 4–5 dni po email 1
 
 ---
 
-Cześć,
+Stałe pory posiłków brzmią dobrze w teorii.
+W praktyce — przy nieregularnym dniu, pracy, dzieciach, wszystkim naraz — to często kolejna rzecz, która nie wyszła.
 
-Nie będę Ci teraz mówić, żebyś jadła o stałych porach. Wiem, że to często jest niemożliwe.
+Cześć! Tu Zuzia.
 
-Ale jest coś, co działa nawet w chaotycznym dniu.
+Nie będę Ci mówić, żebyś jadła o stałych porach. Powiem Ci coś innego.
 
-Nazywam to **punktem zakotwiczenia**.
+**Jeden punkt zakotwiczenia**
 
-Chodzi o jeden posiłek — tylko jeden — który starasz się utrzymać w podobnych warunkach każdego dnia. Najczęściej jest to śniadanie albo obiad. Nie musi być idealny. Musi być.
+W pracy z klientkami z chaotycznym dniem często zaczynamy od jednego pytania: który posiłek jest dla Ciebie najbardziej realny do utrzymania w miarę regularnych warunkach?
 
-Kiedy ciało ma jeden punkt, do którego może się „kalibrować" — cała reszta dnia staje się bardziej przewidywalna dla układu hormonalnego. Mniejszy nagły kortyzol. Mniejszy intensywny głód wieczorem. Mniejsze kompensowanie.
+Nie wszystkie. Jeden.
 
-To nie jest metoda na idealną dietę. To metoda na wyjście z chaosu jednym małym krokiem.
+Najczęściej to śniadanie — bo jest przed dniem, który jeszcze nie zdążył się rozpaść. Albo obiad, bo jest w środku i wyznacza rytm reszty dnia. Rzadko kiedy wieczór — bo wtedy dzień już rządzi.
+
+Kiedy ciało ma jeden taki punkt, do którego może się kalibrować — zmienia się coś w hormonach głodu. Mniejszy kortyzol w drugiej połowie dnia. Mniejszy nagły i intensywny głód wieczorem. Mniejsza potrzeba nadrabiania.
+
+To nie jest metoda na idealną dietę. To metoda na wyjście z chaosu jednym krokiem.
+
+**Wygrała powtarzalność, nie perfekcja**
+
+Ten jeden posiłek nie musi być idealny. Musi być. Powtarzalnie, regularnie, w zbliżonych warunkach. Reszta dnia może się rozjeżdżać — jeden punkt robi różnicę.
 
 Spróbuj przez tydzień. Z jednym posiłkiem. Tylko jednym.
 
 ---
 
-Jeśli chcesz poukładać to razem — zapraszam na konsultację. Pracujemy z realnym życiem, nie z idealnym planem.
+Jeśli chcesz poukładać to razem — zapraszam na konsultację. Patrzę na to, jak wygląda Twój konkretny dzień, i szukamy rozwiązania, które ma szansę zadziałać w Twoim życiu — nie w idealnym planie.
+
+60 minut, 129 zł.
 
 → [Umów się na konsultację] [LINK DO KONSULTACJI]
 
-Zuzanna
+Na dziś to wszystko. Dzięki, że jesteś. 💛
+
+Zuzia

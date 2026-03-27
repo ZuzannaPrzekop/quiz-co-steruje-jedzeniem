@@ -1,30 +1,43 @@
 # Email 3 — Emocje: praktyka i CTA
 
-**Temat:** Jedna przerwa, która może dużo zmienić
-**Preheader:** Mała praktyka do zabrania + zaproszenie na konsultację
+**Temat:** 60 sekund, które mogą zmienić ten wieczór
+**Preheader:** Nie chodzi o to, żeby nie zjeść. Chodzi o to, żeby siebie usłyszeć.
 **Kiedy:** 4–5 dni po email 1
 
 ---
 
-Cześć,
+Nie chcę Ci dawać kolejnej zasady.
+Chcę Ci dać jedną praktykę.
 
-Nie chcę Ci dawać kolejnej listy zasad. Chcę Ci dać jedną rzecz.
+Cześć! Tu Zuzia.
 
-**Pauzę.**
+Jest coś, co nazywam pauzą przed jedzeniem. To nie jest technika odchudzania. To jest sposób na to, żeby zacząć słyszeć siebie w momencie, który dotychczas dzieje się na autopilocie.
 
-Zanim sięgniesz po jedzenie — 60 sekund. Nie po to, żeby nie zjeść. Po to, żeby wiedzieć, co tak naprawdę się dzieje.
+**Jak to wygląda**
 
-W tej chwili: połóż rękę na sercu (serio, fizycznie). Weź jeden głęboki oddech. I zapytaj siebie: „Co teraz czuję?"
+Zanim sięgniesz po jedzenie — zatrzymaj się na 60 sekund. Połóż rękę na sercu (serio, fizycznie — to nie jest metafora). Weź jeden głęboki oddech.
 
-Jeśli odpowiedź to głód — jedz. Naprawdę.
-Jeśli odpowiedź to coś innego — wiesz już, że jedzenie tego nie zaspokoi. I możesz wybrać, co zrobić z tą informacją.
+I zapytaj siebie: "Co teraz czuję?"
 
-Nie zawsze będziesz wybierać „dobrze". To nie o to chodzi. Chodzi o to, żebyś zaczęła siebie słyszeć.
+Nie musisz mieć gotowej odpowiedzi. Wystarczy, że się zatrzymasz i zapytasz.
+
+Jeśli odpowiedź to głód — jedz. Spokojnie i bez wyrzutów.
+Jeśli odpowiedź to coś innego — masz teraz tę informację. I możesz wybrać, co z nią zrobić. Niekoniecznie "nie zjem" — ale może "zjem świadomie" albo "najpierw zrobię jedną rzecz dla siebie".
+
+**Wygrała uważność, nie silna wola**
+
+Nie zawsze będziesz "wybierać dobrze" — cokolwiek to znaczy. I nie o to chodzi. Chodzi o to, żebyś coraz częściej słyszała siebie zanim podejmiesz decyzję. To jest fundamentalna zmiana. I buduje się powoli, powtarzalnie, bez dramatów.
+
+W pracy z klientkami widzę, że to właśnie ten moment — pauza, pytanie, odpowiedź — zmienia relację z jedzeniem bardziej niż jakikolwiek plan żywieniowy.
 
 ---
 
-Jeśli chcesz pracować z tym głębiej — zapraszam na konsultację. To jest dokładnie ten rodzaj pracy, który robimy razem.
+Jeśli chcesz pracować z tym głębiej — zapraszam na konsultację. To dokładnie ten rodzaj pracy, który robimy razem.
+
+60 minut, 129 zł.
 
 → [Umów się na konsultację] [LINK DO KONSULTACJI]
 
-Zuzanna
+Na dziś to wszystko. Dzięki, że jesteś. 💛
+
+Zuzia

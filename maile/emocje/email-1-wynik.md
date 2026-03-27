@@ -1,38 +1,47 @@
 # Email 1 — Emocje mylą się z głodem
 
 **Temat:** Twój wynik: emocje mylą się z głodem
-**Preheader:** Interpretacja + ważna rzecz, którą chcę, żebyś wiedziała
+**Preheader:** To jeden z najtrudniejszych mechanizmów. I jeden z najczęstszych.
 **Kiedy:** natychmiast po zapisie
 **Automation trigger:** dołącza do grupy „Quiz - Emocje"
 
 ---
 
-Cześć,
+Jedzenie naprawdę przynosi ulgę.
+To nie jest wymówka. To neurobiologia.
 
-Masz wynik. I zanim cokolwiek napiszę — chcę powiedzieć jedną rzecz:
+Cześć! Tu Zuzia.
 
-To, co opisujesz, jest jednym z najtrudniejszych mechanizmów. Nie dlatego, że jesteś słaba. Dlatego, że jest bardzo głęboko.
+Właśnie wypełniłaś quiz i wyszło Ci, że emocje najczęściej mylą się z głodem. Chcę Ci powiedzieć coś, zanim przejdziesz do interpretacji — i zanim zaczniesz się oceniać.
 
-**Emocje mylą się z głodem.**
+**To nie jest słabość**
 
-To znaczy, że jedzenie stało się dla Ciebie językiem — sposobem, w jaki ciało i psychika komunikują zmęczenie, samotność, nudę, napięcie, smutek, przytłoczenie. Sygnały emocjonalne docierają tak samo jak sygnały głodu fizycznego — albo silniej.
+Układ nagrody w mózgu reaguje na jedzenie natychmiast. Dopamina, redukcja kortyzolu, chwilowe poczucie spokoju. Jedzenie działa — i to właśnie dlatego po nie sięgamy w trudnych momentach. Nie dlatego, że coś z nami nie tak. Dlatego, że mechanizm jest bardzo sprawny.
 
-I nie ma się co dziwić. Jedzenie naprawdę przynosi ulgę. Naprawdę działa — przez chwilę. Układ nagrody w mózgu reaguje natychmiast. Problem polega na tym, że to nie rozwiązuje tego, co wywołało emocję.
+Problem polega na tym, że ulga trwa chwilę. A to, co wywołało emocję — zostaje.
 
-Nie chodzi o to, żebyś przestała jeść „ze stresu" albo z emocji. Chodzi o to, żebyś umiała rozróżniać — kiedy to ciało pyta o jedzenie, a kiedy psychika pyta o coś innego.
+**Jedzenie jako język**
 
-To jest umiejętność. I można ją rozwinąć.
+W pracy z klientkami widzę to tak: jedzenie staje się językiem, którym ciało i psychika komunikują to, czego nie potrafią inaczej wyrazić. Zmęczenie, które się nie przyznaje, że jest zmęczeniem. Samotność, która nie chce być samotna. Napięcie, które szuka wyjścia.
 
-W kolejnym mailu napiszę Ci jak — i wyślę prostą kartę, z której możesz skorzystać jeszcze dziś.
+I sygnały emocjonalne potrafią być silniejsze niż sygnały głodu fizycznego. Głód emocjonalny jest nagły, konkretny, natarczywy. Nie mija po jedzeniu — czasem się nasila.
+
+Nie chodzi o to, żebyś przestała jeść z emocji. Chodzi o to, żebyś zaczęła rozróżniać — kiedy ciało pyta o jedzenie, a kiedy psychika pyta o coś innego.
+
+To jest umiejętność. I można ją rozwinąć — nie przez silną wolę, tylko przez praktykę.
+
+W kolejnym mailu napiszę Ci, jak ją ćwiczyć. I wyślę Ci coś, co możesz mieć przy sobie.
 
 ---
 
-Jeśli czujesz, że to jest coś, z czym chcesz pracować — jestem tu.
+Jeśli czujesz, że chcesz to przepracować ze mną — jestem tu.
 
-Na konsultacji pracujemy dokładnie z tym — uczymy się rozróżniać sygnały, rozumieć własne wzorce i szukać innych wyjść dla emocji.
+Na konsultacji pracujemy dokładnie z tym — rozróżniamy sygnały, rozumiemy wzorce, szukamy innych wyjść dla emocji. Nie przez zakazy. Przez uważność.
 
 Pierwsza konsultacja: 60 minut, 129 zł.
 
-→ [Umów pierwszą konsultację] [LINK DO KONSULTACJI]
+→ [Umów się] [LINK DO KONSULTACJI]
 
-Zuzanna
+Na dziś to wszystko. Dzięki, że jesteś. 💛
+
+Zuzia
