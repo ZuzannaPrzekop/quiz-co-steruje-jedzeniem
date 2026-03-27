@@ -5,6 +5,14 @@ interface SubmitBody {
   primaryCategory: string;
 }
 
+// Mapowanie kategorii na zmienne środowiskowe z ID grup w MailerLite
+const CATEGORY_GROUP_ENV: Record<string, string> = {
+  stress:       "MAILERLITE_GROUP_STRESS",
+  chaos:        "MAILERLITE_GROUP_CHAOS",
+  emotions:     "MAILERLITE_GROUP_EMOTIONS",
+  allOrNothing: "MAILERLITE_GROUP_ALL_OR_NOTHING",
+};
+
 export async function POST(request: NextRequest) {
   try {
     const body = (await request.json()) as SubmitBody;
@@ -14,12 +22,14 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Nieprawidłowy email" }, { status: 400 });
     }
 
-    // Zapis do MailerLite
-    const apiKey = process.env.MAILERLITE_API_KEY;
-    const groupId = process.env.MAILERLITE_GROUP_ID;
+    const apiKey     = process.env.MAILERLITE_API_KEY;
+    const mainGroup  = process.env.MAILERLITE_GROUP_ID;
+    const resultGroup = process.env[CATEGORY_GROUP_ENV[primaryCategory]];
 
-    if (apiKey && groupId) {
-      await addToMailerLite(email, primaryCategory, apiKey, groupId);
+    if (apiKey && mainGroup) {
+      // Dodaj do głównej grupy + grupy wyniku (jeśli skonfigurowana)
+      const groups = [mainGroup, ...(resultGroup ? [resultGroup] : [])];
+      await addToMailerLite(email, primaryCategory, apiKey, groups);
     }
 
     return NextResponse.json({ success: true }, { status: 200 });
@@ -34,7 +44,7 @@ async function addToMailerLite(
   email: string,
   category: string,
   apiKey: string,
-  groupId: string
+  groups: string[]
 ) {
   const res = await fetch("https://connect.mailerlite.com/api/subscribers", {
     method: "POST",
@@ -45,7 +55,7 @@ async function addToMailerLite(
     },
     body: JSON.stringify({
       email,
-      groups: [groupId],
+      groups,
       fields: { quiz_wynik: category },
     }),
   });
