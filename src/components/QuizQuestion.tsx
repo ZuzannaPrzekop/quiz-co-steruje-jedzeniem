@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { QUIZ_DATA } from "@/data/quiz";
 import type { AnswerValue } from "@/types/quiz";
 
@@ -55,8 +56,15 @@ export default function QuizQuestion({
   const question = QUIZ_DATA.questions[questionIndex];
   const total = QUIZ_DATA.questions.length;
   const progress = (questionIndex / total) * 100;
-  const currentAnswer = answers[question.id];
-  const answered = currentAnswer !== undefined;
+
+  // Lokalne zaznaczenie — resetuje się przy każdym remount (key prop)
+  const [selected, setSelected] = useState<AnswerValue | null>(null);
+
+  function handleSelect(value: AnswerValue) {
+    setSelected(value);
+    // Krótkie opóźnienie żeby animacja zaznaczenia zdążyła się pokazać
+    setTimeout(() => onAnswer(question.id, value), 220);
+  }
 
   return (
     <div className="quiz-container animate-slide-up">
@@ -95,11 +103,12 @@ export default function QuizQuestion({
         {/* Odpowiedzi */}
         <div className="flex flex-col gap-3 mb-8">
           {ANSWER_OPTIONS.map((option) => {
-            const isSelected = currentAnswer === option.value;
+            const isSelected = selected === option.value;
             return (
               <button
                 key={option.value}
-                onClick={() => onAnswer(question.id, option.value)}
+                onClick={() => handleSelect(option.value)}
+                disabled={selected !== null}
                 className={`w-full text-left px-5 py-4 rounded-2xl border-2 transition-all duration-150
                   focus:outline-none focus:ring-2 focus:ring-brand-sage focus:ring-offset-2
                   active:scale-[0.98] touch-manipulation
@@ -139,7 +148,7 @@ export default function QuizQuestion({
           >
             ← Wróć
           </button>
-          {!answered && (
+          {selected === null && (
             <span className="text-xs text-brand-navy/25 font-mono">
               wybierz odpowiedź
             </span>
