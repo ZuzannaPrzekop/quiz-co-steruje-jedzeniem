@@ -1,0 +1,28 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build
+/.next/
+/out/
+
+# Env — NIGDY nie commituj kluczy API
+.env
+.env.local
+.env.*.local
+
+# Leady — dane osobowe, trzymaj lokalnie lub w bezpiecznym miejscu
+leads.csv
+
+# System
+.DS_Store
+*.pem
+Thumbs.db
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
