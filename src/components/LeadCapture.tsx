@@ -127,7 +127,26 @@ export default function LeadCapture({ primaryCategory, onSuccess }: LeadCaptureP
             <span className="text-xs text-brand-navy/50 leading-relaxed">
               Wyrażam zgodę na kontakt mailowy od dr Zuzanny Przekop w celu
               przesłania wyniku ankiety i informacji o usługach. Możesz
-              zrezygnować w każdej chwili.
+              zrezygnować w każdej chwili. Zapoznałam się z{" "}
+              <a
+                href="https://drive.google.com/file/d/16ytBuku_5RVe4Jy5uzIZviolh4uhZKRx/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={(e) => e.stopPropagation()}
+                className="underline underline-offset-2 hover:text-brand-navy/80 transition-colors"
+              >
+                Regulaminem
+              </a>{" "}
+              i{" "}
+              <a
+                href="https://drive.google.com/file/d/1daSUk-uJUQLG1JXWfmgCGMV6uFuWf_x4/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={(e) => e.stopPropagation()}
+                className="underline underline-offset-2 hover:text-brand-navy/80 transition-colors"
+              >
+                Polityką prywatności
+              </a>.
             </span>
           </label>
 

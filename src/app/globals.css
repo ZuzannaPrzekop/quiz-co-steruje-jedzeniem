@@ -29,7 +29,7 @@
   /* Przycisk główny (lime) */
   .btn-primary {
     @apply bg-brand-lime text-brand-navy font-mono font-bold
-           px-6 py-4 rounded-xl
+           px-6 py-4 rounded-2xl
            text-base leading-tight
            transition-all duration-200
            hover:brightness-95 active:scale-95
@@ -41,31 +41,12 @@
   .btn-secondary {
     @apply bg-transparent text-brand-navy font-mono
            border border-brand-navy/30
-           px-6 py-4 rounded-xl
+           px-6 py-4 rounded-2xl
            text-base leading-tight
            transition-all duration-200
            hover:bg-brand-navy/5 active:scale-95
            focus:outline-none focus:ring-2 focus:ring-brand-navy focus:ring-offset-2
            w-full sm:w-auto;
-  }
-
-  /* Karta odpowiedzi */
-  .answer-card {
-    @apply w-full text-left px-5 py-4 rounded-xl border-2
-           transition-all duration-150
-           focus:outline-none focus:ring-2 focus:ring-brand-sage focus:ring-offset-2
-           active:scale-[0.98] touch-manipulation;
-  }
-
-  .answer-card-default {
-    @apply answer-card
-           border-brand-navy/15 bg-white/60
-           hover:border-brand-sage hover:bg-brand-sage-light;
-  }
-
-  .answer-card-selected {
-    @apply answer-card
-           border-brand-sage bg-brand-sage-light;
   }
 
   /* Kontener główny — max szerokość na dużych ekranach */
@@ -75,8 +56,8 @@
   }
 
   .quiz-card {
-    @apply w-full max-w-lg bg-white/70 backdrop-blur-sm
-           rounded-2xl shadow-sm
+    @apply w-full max-w-lg bg-white/75 backdrop-blur-sm
+           rounded-3xl shadow-sm
            px-6 py-8 sm:px-10 sm:py-12;
   }
 }
