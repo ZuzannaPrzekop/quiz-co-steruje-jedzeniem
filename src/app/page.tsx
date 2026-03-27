@@ -108,6 +108,7 @@ export default function QuizPage() {
   if (state.step === "questions") {
     return (
       <QuizQuestion
+        key={state.currentQuestion}
         questionIndex={state.currentQuestion}
         answers={state.answers}
         onAnswer={handleAnswer}
