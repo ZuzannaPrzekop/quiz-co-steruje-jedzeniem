@@ -36,8 +36,8 @@ export default function ThankYou() {
 
         {/* Informacja o konsultacji */}
         <p className="text-brand-navy/45 text-sm leading-relaxed mb-8 max-w-xs mx-auto">
-          W wiadomości znajdziesz też informację o możliwości umówienia
-          pierwszej konsultacji, jeśli będziesz chcieć pójść krok dalej.
+          Jeśli będziesz chcieć pogłębić temat — w mailu znajdziesz też
+          możliwość umówienia pierwszej konsultacji.
         </p>
 
         {/* Powrót na stronę */}

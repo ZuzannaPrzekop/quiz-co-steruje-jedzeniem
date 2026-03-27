@@ -9,7 +9,7 @@ import type { QuizData } from "@/types/quiz";
 export const QUIZ_DATA: QuizData = {
   title: "Co steruje Twoim jedzeniem?",
   subtitle:
-    "Odpowiedz na kilka krótkich pytań i sprawdź, co najbardziej wpływa na Twoje decyzje jedzeniowe.",
+    "Odpowiedz na pytania i sprawdź, który mechanizm najbardziej wpływa na Twoje jedzenie.",
 
   // ── Opcje odpowiedzi ────────────────────────────────────────────────────────
   answers: {
@@ -127,7 +127,7 @@ export const QUIZ_DATA: QuizData = {
       id: "emotions",
       name: "Emocje mylą się z głodem",
       shortPreview:
-        "Jedzenie bywa odpowiedzią nie tylko na potrzeby ciała, ale też na emocje i stany wewnętrzne. Rozróżnienie tego to pierwszy krok.",
+        "Jedzenie bywa odpowiedzią nie tylko na potrzeby ciała, ale też na emocje i stany wewnętrzne. Rozróżnianie ich to umiejętność, którą można rozwinąć.",
       fullDescription:
         "Ten wynik sugeruje, że jedzenie bywa odpowiedzią nie tylko na potrzeby ciała, ale też na emocje i stany wewnętrzne. W takiej sytuacji kluczowe staje się rozróżnianie głodu fizycznego od potrzeby ukojenia. To umiejętność — można ją rozwinąć.",
     },
@@ -135,7 +135,7 @@ export const QUIZ_DATA: QuizData = {
       id: "allOrNothing",
       name: 'Schemat "wszystko albo nic" odbiera Ci stabilność',
       shortPreview:
-        "Największą trudnością nie jest sam start, ale utrzymanie zmian po pierwszym potknięciu. To bardzo często spotykany mechanizm.",
+        "Największą trudnością nie jest sam start, ale utrzymanie zmian po pierwszym potknięciu. Wiesz, że dotyczy to bardzo wielu kobiet?",
       fullDescription:
         'Wygląda na to, że największą trudnością nie jest sam start, ale utrzymanie zmian po pierwszym potknięciu. Wtedy bardziej niż kolejnych zasad potrzebujesz systemu, który pomaga wracać do równowagi — bez oceniania siebie i bez zaczynania od zera.',
     },

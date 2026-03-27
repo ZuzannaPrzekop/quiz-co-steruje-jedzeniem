@@ -66,13 +66,13 @@ export default function QuizResult({
 
         {/* Zachęta do maila */}
         <p className="text-brand-navy/65 text-sm sm:text-base leading-relaxed mb-6 text-center">
-          Zostaw maila, a prześlę Ci krótką interpretację wyniku oraz wskazówkę,
-          co może być dobrym następnym krokiem.
+          Zostaw maila — wyślę Ci pełną interpretację wyniku i konkretną wskazówkę,
+          od czego warto zacząć.
         </p>
 
         {/* CTA */}
         <button onClick={onContinue} className="btn-primary mx-auto block text-base">
-          Chcę otrzymać pełny wynik
+          Chcę wiedzieć więcej
         </button>
 
 

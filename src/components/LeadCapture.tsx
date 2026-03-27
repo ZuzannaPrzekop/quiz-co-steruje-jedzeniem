@@ -52,15 +52,15 @@ export default function LeadCapture({ primaryCategory, onSuccess }: LeadCaptureP
         </p>
 
         <h2 className="font-mono font-bold text-brand-navy text-xl sm:text-2xl leading-tight mb-4 text-center">
-          Wyślę Ci Twój wynik
+          Już prawie gotowe
         </h2>
 
         <p className="text-brand-navy/65 text-sm sm:text-base leading-relaxed mb-8 text-center max-w-sm mx-auto">
-          Zostaw maila, a prześlę Ci krótką interpretację wyniku oraz wskazówkę,
-          co może być dobrym następnym krokiem.{" "}
+          Zostaw maila — wyślę Ci pełną interpretację wyniku i konkretną wskazówkę,
+          od czego warto zacząć.{" "}
           <span className="text-brand-navy/40">
-            Jeśli będziesz chcieć, w wiadomości znajdziesz też możliwość umówienia
-            pierwszej konsultacji.
+            Jeśli będziesz chcieć pogłębić temat — w mailu znajdziesz też
+            możliwość umówienia pierwszej konsultacji.
           </span>
         </p>
 
