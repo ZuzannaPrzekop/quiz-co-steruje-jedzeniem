@@ -75,9 +75,6 @@ export default function QuizResult({
           Chcę otrzymać pełny wynik
         </button>
 
-        <p className="text-center text-xs text-brand-navy/30 font-mono mt-4">
-          Bez spamu — jeden mail z wynikiem
-        </p>
 
       </div>
     </div>
