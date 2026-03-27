@@ -15,6 +15,9 @@
 # Leady — dane osobowe, trzymaj lokalnie lub w bezpiecznym miejscu
 leads.csv
 
+# Treści mailingowe — tylko lokalnie, repo jest publiczne
+/maile/
+
 # System
 .DS_Store
 *.pem
