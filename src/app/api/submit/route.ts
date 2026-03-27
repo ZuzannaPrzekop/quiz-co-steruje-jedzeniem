@@ -56,6 +56,7 @@ async function addToMailerLite(
     body: JSON.stringify({
       email,
       groups,
+      status: "active",
       fields: { quiz_wynik: category },
     }),
   });
